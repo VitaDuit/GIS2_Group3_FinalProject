@@ -25,7 +25,7 @@ The data and scripts in this repository cover:
 
 #### Data Sources:
 
-OpenStreetMap:
+OpenStreetMap Contributors:
 
 * City boundaries
 * Street Network
