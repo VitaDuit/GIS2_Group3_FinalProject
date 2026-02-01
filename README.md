@@ -59,5 +59,6 @@ Population Data:
 
 #### Usage:
 
-Clone the repository to your device and run the cells of the Jupyter Notebook (Group3\_FinalProject.ipynb) from top to bottom. In case you have not all libraries mentioned under requirements installed, use the '!pip install' command to download the missing ones. The data is provided in this repository (population data) or downloaded automatically by executing the code (OpenStreetMap data).
-
+Clone the repository to your device. 
+A preprocessed file of the population grid clipped to Graz is in the "preprocessed" folder. If you wish to do the full analysis or use it for another city, download the population grid at https://human-settlement.emergency.copernicus.eu/download.php?ds=pop, save it in the base directory and adjust the POP_RAW_PATH accordingly.
+Run the cells of the Jupyter Notebook (Group3\_FinalProject.ipynb) from top to bottom. In case you have not all libraries mentioned under requirements installed, use the '!pip install' command to download the missing ones. The rest of the data is provided in this repository (preprocessed population data) or downloaded automatically by executing the code (OpenStreetMap data).
